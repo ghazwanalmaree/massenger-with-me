@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221943307308",
+    "project_id": "massenger-c8acd",
+    "storage_bucket": "massenger-c8acd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221943307308:android:2b5616eea2aaa9cd550589",
+        "android_client_info": {
+          "package_name": "com.almarey.massenger_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221943307308-kria2d003boeqp2rc811lafrs60sbld6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbERw0E-7vzeBYujLglACiDQW3LmR83Ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221943307308-kria2d003boeqp2rc811lafrs60sbld6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
